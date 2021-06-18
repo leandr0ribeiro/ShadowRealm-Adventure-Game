@@ -1,4 +1,4 @@
-# Jogo_RPGAction_GodotEngine
+# Jogo de RPGAction utilizando GodotEngine
 <h3>Um jogo de RPG Action criado usando a Engine Godot 3.3 </h3>
 
 Obs: Toda arte usada nesse jogo foi desenvolvida pelo Artiste/Desenvolvedor Benjamin Anderson.
