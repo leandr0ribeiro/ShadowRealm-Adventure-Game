@@ -36,5 +36,9 @@ Para rodar o jogo basta clicar no botão sinalizado em vermelho na foto abaixo o
 
 <h3>Highlights do projeto</h3>
 
+Animação dos Inimigos:
+
+<img src="https://user-images.githubusercontent.com/19867227/122606985-3af49280-d050-11eb-82dd-f2fac169793c.gif" width="750">
+
 
 
