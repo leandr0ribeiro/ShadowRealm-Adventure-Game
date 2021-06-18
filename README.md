@@ -13,9 +13,9 @@ Para rodar o projeto na sua máquina local basta utilizar o comando para clonar 
 
 Selecione a pasta onde clonou o repositório:
 
-![image](https://user-images.githubusercontent.com/19867227/122605294-a1c47c80-d04d-11eb-8405-dca40c5049ee.png)
+<img src="https://user-images.githubusercontent.com/19867227/122605294-a1c47c80-d04d-11eb-8405-dca40c5049ee.png" width="750">
 
 Selecione o arquivo: project.godot:
 
-![image](https://user-images.githubusercontent.com/19867227/122605396-c3bdff00-d04d-11eb-86a2-43b8ea93354b.png)
+<img src="https://user-images.githubusercontent.com/19867227/122605396-c3bdff00-d04d-11eb-86a2-43b8ea93354b.png" width="750">
 
