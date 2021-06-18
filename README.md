@@ -40,7 +40,7 @@ Animação dos Inimigos:
 
 <img src="https://user-images.githubusercontent.com/19867227/122606985-3af49280-d050-11eb-82dd-f2fac169793c.gif" width="750">
 
-Mecânica basica de jogos 2D (Movimentação cima,baixo,direita,esquerda)
+Mecânica basica de jogos 2D (Movimentação cima,baixo,direita,esquerda):
 
 <img src="https://user-images.githubusercontent.com/19867227/122607224-a2124700-d050-11eb-9fcb-7cff1a9e9880.gif" width="750">
 
@@ -52,7 +52,10 @@ Pulo/Rolamento do personagem:
 
 <img src="https://user-images.githubusercontent.com/19867227/122607829-8f4c4200-d051-11eb-9a75-46a2db523449.gif" width="750">
 
+Interação com cenário (Cortando a grama com a espada):
 
-Interação com cenário (Cortando a grama com a espada)
+<img src="https://user-images.githubusercontent.com/19867227/122608130-1994a600-d052-11eb-97f3-40f52b68f401.gif" width="750">
 
-Atacando o inimigo (Inimigo com Knockback implementado sem IA para contra-atacar)
+Atacando o inimigo (Inimigo com Knockback implementado sem IA para contra-atacar):
+
+<img src="https://user-images.githubusercontent.com/19867227/122608330-69736d00-d052-11eb-9f94-4f1f68711afb.gif" width="750">
