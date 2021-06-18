@@ -9,7 +9,7 @@ O Intuito deste jogo é mostrar o meu dominio na engine Godot 3.3 e dominio no d
 #Vamos começar
 Para rodar o projeto na sua máquina local basta utilizar o comando para clonar o repositório, que fica disponível aqui na página e importar na Engine Godot instalada em seu computador:
 
-<img src="https://user-images.githubusercontent.com/19867227/122605188-7f326380-d04d-11eb-9f3a-166dc3dceaa8.png" width="250">
+<img src="https://user-images.githubusercontent.com/19867227/122605188-7f326380-d04d-11eb-9f3a-166dc3dceaa8.png" width="750">
 
 Selecione a pasta onde clonou o repositório:
 
