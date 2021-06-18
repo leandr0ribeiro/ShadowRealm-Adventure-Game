@@ -40,5 +40,19 @@ Animação dos Inimigos:
 
 <img src="https://user-images.githubusercontent.com/19867227/122606985-3af49280-d050-11eb-82dd-f2fac169793c.gif" width="750">
 
+Mecânica basica de jogos 2D (Movimentação cima,baixo,direita,esquerda)
+
+<img src="https://user-images.githubusercontent.com/19867227/122607224-a2124700-d050-11eb-9fcb-7cff1a9e9880.gif" width="750">
+
+Ataque básico em todas as direções:
+
+<img src="https://user-images.githubusercontent.com/19867227/122607939-befb4a00-d051-11eb-89ee-32d757408ba7.gif" width="750">
+
+Pulo/Rolamento do personagem:
+
+<img src="https://user-images.githubusercontent.com/19867227/122607829-8f4c4200-d051-11eb-9a75-46a2db523449.gif" width="750">
 
 
+Interação com cenário (Cortando a grama com a espada)
+
+Atacando o inimigo (Inimigo com Knockback implementado sem IA para contra-atacar)
