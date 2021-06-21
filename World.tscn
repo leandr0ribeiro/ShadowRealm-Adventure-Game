@@ -636,17 +636,19 @@ position = Vector2( 40, 32 )
 [node name="Grass3" parent="Ysort/Grass" instance=ExtResource( 6 )]
 position = Vector2( 24, 112 )
 
-[node name="Bat" parent="Ysort" instance=ExtResource( 7 )]
+[node name="Bats" type="YSort" parent="Ysort"]
+
+[node name="Bat" parent="Ysort/Bats" instance=ExtResource( 7 )]
 position = Vector2( 168, 37 )
 
-[node name="Bat2" parent="Ysort" instance=ExtResource( 7 )]
+[node name="Bat2" parent="Ysort/Bats" instance=ExtResource( 7 )]
 position = Vector2( 272, 88 )
 
-[node name="Bat3" parent="Ysort" instance=ExtResource( 7 )]
+[node name="Bat3" parent="Ysort/Bats" instance=ExtResource( 7 )]
 position = Vector2( 176, 152 )
 
-[node name="Bat4" parent="Ysort" instance=ExtResource( 7 )]
+[node name="Bat4" parent="Ysort/Bats" instance=ExtResource( 7 )]
 position = Vector2( 11, 108 )
 
-[node name="Bat5" parent="Ysort" instance=ExtResource( 7 )]
+[node name="Bat5" parent="Ysort/Bats" instance=ExtResource( 7 )]
 position = Vector2( 272, 180 )
