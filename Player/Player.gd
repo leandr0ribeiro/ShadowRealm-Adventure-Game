@@ -64,6 +64,7 @@ func move_state(delta):
 	
 	if Input.is_action_just_pressed("attack"):
 		state = ATTACK
+		#teste
 
 func attack_state(delta):
 	velocity = Vector2.ZERO
