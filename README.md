@@ -58,7 +58,15 @@ Interação com cenário (Cortando a grama com a espada):
 
 Inimigo atacando Player (Basico de IA + Efeito Hit Flash no Player)
 
+<img src="https://user-images.githubusercontent.com/19867227/123289828-2a786800-d4e7-11eb-988c-b8faf316d560.gif" width="750">
+
 Player com contagem de pontos de vida (HearthUI)
 
+<img src="https://user-images.githubusercontent.com/19867227/123290221-79260200-d4e7-11eb-82a6-84834fd0e557.gif" width="750">
+
 Inimigos sofrendo ataque do Player (Efeito Hit Flash nos inimigos + Efeito de morte)
+
+<img src="https://user-images.githubusercontent.com/19867227/123290304-880cb480-d4e7-11eb-8170-684aa72a950e.gif" width="750">
+
+
 
