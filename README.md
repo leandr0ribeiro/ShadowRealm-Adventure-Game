@@ -56,6 +56,9 @@ Interação com cenário (Cortando a grama com a espada):
 
 <img src="https://user-images.githubusercontent.com/19867227/122608130-1994a600-d052-11eb-97f3-40f52b68f401.gif" width="750">
 
-Atacando o inimigo (Inimigo com Knockback implementado sem IA para contra-atacar):
+Inimigo atacando Player (Basico de IA + Efeito Hit Flash no Player)
 
-<img src="https://user-images.githubusercontent.com/19867227/122608330-69736d00-d052-11eb-9f94-4f1f68711afb.gif" width="750">
+Player com contagem de pontos de vida (HearthUI)
+
+Inimigos sofrendo ataque do Player (Efeito Hit Flash nos inimigos + Efeito de morte)
+
